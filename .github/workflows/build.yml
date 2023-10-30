@@ -1,4 +1,4 @@
-on:
+on: Build
   - push
 
 jobs:
