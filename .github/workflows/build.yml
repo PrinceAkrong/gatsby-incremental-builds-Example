@@ -1,4 +1,4 @@
-on: Build
+on: Build Gatsby image
   - push
 
 jobs:
